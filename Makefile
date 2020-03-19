@@ -1,8 +1,8 @@
-NAME ?= UNiQuE
+NAME ?= Kernel
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := ZenUi-stock
+CODE := rosy
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
