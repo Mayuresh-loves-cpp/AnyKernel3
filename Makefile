@@ -2,7 +2,7 @@ NAME ?= Kernel
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := rosy
+CODE := rolex
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 

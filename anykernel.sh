@@ -4,12 +4,12 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Kernel-EAS by VishalCJ @ telegram
+kernel.string=Blizzard-kernel by Nick
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=rosy
+device.name1=rolex
 device.name2=
 device.name3=
 device.name4=
